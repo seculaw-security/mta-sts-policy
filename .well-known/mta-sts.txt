@@ -1,5 +1,5 @@
 version: STSv1
 mode: enforce
-mx: mx1.yourdomain.com
-mx: mx2.yourdomain.com
+mx: mail.protonmail.ch
+mx: mailsec.protonmail.ch
 max_age: 86401
