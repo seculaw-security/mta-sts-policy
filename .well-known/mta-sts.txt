@@ -1,0 +1,5 @@
+version: STSv1
+mode: enforce
+mx: mx1.yourdomain.com
+mx: mx2.yourdomain.com
+max_age: 86401
